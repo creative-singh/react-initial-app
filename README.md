@@ -1,6 +1,7 @@
 git clone https://github.com/creative-singh/react-initial-app.git
 
-npm install
+cd react-initial-app
 
+npm install
 
 npm start
